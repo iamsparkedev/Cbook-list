@@ -11,8 +11,6 @@
 ![License](https://img.shields.io/github/license/iamsparkedev/REPO)
 [![Discord](https://discordapp.com/api/guilds/1418891584732266669/widget.png?style=banner2)](https://discord.gg/UgQHxrCk2z)
 
-## BUILT WITH
-
 
 
 ## BUILT WITH
