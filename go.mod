@@ -1,4 +1,4 @@
-module cryptoap
+module crpto
 
 go 1.24.5
 
